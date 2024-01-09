@@ -1,6 +1,6 @@
 # Zona Book
 
-Tugas Project Semester 1 - Kelompok 6
+Tugas Project Semester 1 
 
 <img src="./preview/pembelian.png" alt="Logo Proyek" width="300"/>
 <img src="./preview/peminjaman.png" alt="Logo Proyek" width="300"/>
@@ -9,18 +9,7 @@ Tugas Project Semester 1 - Kelompok 6
 
 ## Deskripsi
 project ini dibuat dengan tema pembelian/penjualan buku di sebuah toko. &
-Project ini dibuat secara berkelompok 🤩 sebagai bagian dari tugas semester 1. Proyek menggunakan Bahasa Python dan menerapkan konsep Nested if serta menggunakan modul datetime bawaan Python.
-
----
-
-## Anggota Kelompok
-
-Kelompok 6:
-- Irsyad Hanif Munawar
-- Muhamad Haidar
-- Hafidz Rahadianto
-- Muhamad Mauladi
-- Azrial Zakri Khilibi
+Project ini dibuat sebagai bagian dari tugas semester 1. Proyek menggunakan Bahasa Python dan menerapkan konsep Nested if serta menggunakan modul datetime bawaan Python.
 
 ---
 
@@ -31,7 +20,7 @@ Kelompok 6:
 - Pembelian dan Peminjaman agar mempermudah transaksi
 
 ---
-Create by Irsyad Hanif with Myfriend ©2023
+Create by Irsyad Hanif ©2023
 
 ## Cara Menggunakan
 
